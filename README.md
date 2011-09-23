@@ -17,6 +17,12 @@ For the single file (without *.miz extension) with generated report (report.txt)
 For the all files from text directory with generated report (report.txt):
 <pre>python proof2ref.py -d text -r</pre>
 
+Remember to set up mizarPath inside of the script.
+
 Requirments:
 ============
 [Mizar 7.12+](http://mizar.org/), [Python 2.5+](http://python.org/), [lxml 2.3+](http://lxml.de/)
+
+Info:
+=====
+Mizar
