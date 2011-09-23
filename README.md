@@ -17,8 +17,9 @@ For the single file (without *.miz extension) with generated report (report.txt)
 For the all files from text directory with generated report (report.txt):
 <pre>python proof2ref.py -d text -r</pre>
 
-**WARNING!**
-In the first place you have to run [redefth.py](https://github.com/Katharsis/redefth) which create redefines version of MML base. Remember to set up mizarPath inside of the script.
+**WARNING!**  
+In the first place you have to run [redefth.py](https://github.com/Katharsis/redefth) which create redefines version of MML base.  
+Remember to set up mizarPath inside of the script.
 
 Requirments:
 ============
