@@ -23,6 +23,6 @@ Requirments:
 ============
 [Mizar 7.12+](http://mizar.org/), [Python 2.5+](http://python.org/), [lxml 2.3+](http://lxml.de/)
 
-Info:
-=====
-Mizar
+More info:
+==========
+Mizar: [mizar.org](http://mizar.org)
